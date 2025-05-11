@@ -1,19 +1,38 @@
-# Hey! I'm Aslam Mamud.   
+# 👋 Hey there, I'm Aslam Mamud
 
+## 🚀 Lead Software Engineer | Shopify App Developer | Laravel & AWS Enthusiast
 
-## I'm a Backend Web Developer, Android Developer and Programmer.    
-    
-    
-### 🚀 To visit my portfolio: [click here][website]   
+I'm a passionate and results-driven lead fullstack software engineer with over 5+ years of experience in building scalable web applications and successful Shopify apps. Currently serving as **Assistant General Manager** at [**DevsNest LLC**][devsnest], I lead high-performing teams and architect solutions that power thousands of eCommerce businesses.
 
-I'm a PHP Backend Developer. I like to do programming and I do lots of research everyday to fulfill my never ending curiousity thurst. Always grind my skill sets to see myself at a better position. So I try my best to update my skills as per trending upgradation.I also revise my previous projects, test their efficiency and update them on regular basis.
+[devsnest]: https://www.linkedin.com/company/82790887
 
-Worked as a PHP developer over the years.Currently, at my company, my task is to create and maintain Shopify apps for merchants in collaboration with the REST admin API and GraphQL of Shopify. My interest is growing toward an Advanced Database Engineering career.
+### 🧠 What I Do
 
-Past two years I have completed several web applications using (PHP,HTML,CSS,JS,JQuery,REST API,GraphQL) and developed some advanced android apps (JAVA).    
+- 🛠️ Architect and lead development of production-grade Shopify apps  
+- ⚙️ Build scalable backend systems using **Laravel**, **MySQL**, **GraphQL**, and **REST APIs**  
+- ☁️ Work with **AWS microservices** for containerized deployments, queueing, analytics, and automation  
+- 📊 Solve complex challenges with large-scale data analytics and API integrations  
+- 👥 Lead cross-functional teams and mentor engineers toward high-quality delivery
 
+### 🏆 Key Projects
 
-### Connect with me:
+- **Navidium Shipping Protection** – Founding Engineer → Team Lead  
+  Complete ownership of architecture, frontend/backend, and admin dashboard.
+
+- **Dynamatic Personalized Upsells** – Current Team Lead  
+  Architected core backend logic, analytics systems, billing APIs, and event workflows using Laravel 10.
+
+### 🛠 Tech Stack
+
+- **Languages:** PHP, JavaScript, Java  
+- **Frameworks:** Laravel, ReactJS  
+- **APIs:** GraphQL, REST, Shopify Admin APIs  
+- **Tools:** Docker, Git, Postman, Redis  
+- **Cloud:** AWS (ECS, SQS, Lambda, API Gateway, RDS)  
+- **Database:** MySQL  
+- **Others:** CI/CD, GitHub Actions, Agile, Trello
+
+### 📫 Let's Connect
 
 [<img align="left" alt="aslammamud" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aslammamud | linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -26,3 +45,9 @@ Past two years I have completed several web applications using (PHP,HTML,CSS,JS,
 [facebook]: https://www.facebook.com/anonymous.mamud
 [telegram]: https://t.me/aslammamud
 [whatsapp]: https://api.whatsapp.com/send/?phone=8801521310261&text=Hello%21+Mamud%2C+Let%27s+Chat+on+Whatsapp.&app_absent=0
+
+-
+📧 Email: **aslammamud@gmail.com**
+---
+
+*Always learning. Always building. Let's create something impactful.*
